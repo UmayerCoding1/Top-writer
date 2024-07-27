@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Abdullah Abu Sayeed",
+      "nationality": "BanglaDeshi",
+      "education": "BA Hons (Bengali) MA (Bengali)",
+      "topBooks": "সংগঠন ও বাঙালি",
+      "img": "img/330px-Abdullah_Abu_Sayeed_(cropped).jpg"
+    },
+    {
+      "id": 2,
+      "name": "Abul Asad",
+      "nationality": "Bangladeshi",
+      "education": "University of Rajshahi",
+      "topBooks": "একশ বছরের রাজনীতি",
+      "img": "img/Bangladeshi_journalist_Abul_Asad.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Anisul Hoque",
+      "nationality": "Bangladeshi",
+      "education": "\tB.Sc. in Civil Engineering",
+      "topBooks": "মা,সফল যদি হতে চাও ",
+      "img": "img/330px-Anisul_Hoque_-_Dhaka_2015-05-30_1676.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Farah Ghuznavi",
+      "nationality": "Bangladeshi",
+      "education": "London School of Economics",
+      "topBooks": "Bangladeshi women journalistsBangladeshi translators",
+      "img": "img/Farah_Ghuznavi.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Imdadul Haq Milan",
+      "nationality": "Bangladeshi",
+      "education": "BA",
+      "topBooks": "Noorjahan-1,Noorjahan-2",
+      "img": "img/Imdadul_Haq_Milon.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Moinul Ahsan Saber",
+      "nationality": "Bangladeshi",
+      "education": "Temporarily unavailable!",
+      "topBooks": "Char Torun Toruni",
+      "img": "img/Mainul_Ahsan_Saber.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Muhammad Asadullah Al-Ghalib",
+      "nationality": "Bangladeshi",
+      "education": "\t PhD, M.A and B.A (Hons) in Arabic",
+      "topBooks": "Bengali Muslim scholars of Islam",
+      "img": "img/Muhammad Asadullah Al-Ghalib.jpg"
+    },
+    {
+      "id": 8,
+      "name": "M Sakhawat Hossain",
+      "nationality": "Bangladeshi",
+      "education": "United States Army Command and General Staff College",
+      "topBooks": "Bangladeshi columnists",
+      "img": "img/M Sakhawat Hossain.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Tahmima Anam",
+      "nationality": "British(Bangladeshi)",
+      "education": "Mount Holyoke College (BA)",
+      "topBooks": "The Startup Wife",
+      "img": "img/tahmima anam.jpeg"
+    }
+  ]

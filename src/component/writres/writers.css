@@ -1,0 +1,41 @@
+.person{
+    /* width: 100%; */
+    height: 65vh;
+    border: 2px solid #000;
+    border-radius: 10px;
+    margin: 10px;
+    text-align: center;
+    padding: 10px;
+}
+
+.person img{
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+    
+}
+
+h4,h5{
+    display: flex;
+    justify-content: space-between;  
+    margin: 10px 0;
+}
+
+h4 .span{
+    float: right;
+    font-size: 0,5rem;
+}
+
+.add-to-fav{
+  border: none;
+  background-color: orange;
+  padding: 10px;
+  color: #fff;
+  border-radius: 10px;
+  font-weight: 700;
+  cursor: pointer;
+}
+.add-to-fav:hover{
+    box-shadow: 1px 1px 10px #00000074;
+}
